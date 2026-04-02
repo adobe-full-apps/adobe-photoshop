@@ -14,8 +14,9 @@ The **🎨 Adobe Photoshop** is the world's most powerful image editing software
 </div>
 
 <div align="center">
-<img width="1280" height="720" alt="Adobe Photoshop Interface" src="https://github.com/user-attachments/assets/efd70275-0645-465b-b398-7a9ba6b46405" />
+<img alt="Adobe Photoshop Interface" src="https://github.com/user-attachments/assets/267731e8-35dc-4d7d-a6e0-73940d6cfeea" />
 </div>
+
 
 ---
 
